@@ -1,0 +1,44 @@
+MenuBar=Disabled
+
+[CompactMode]
+UseSystemFont=false
+ViewFont=Adwaita Mono,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+
+[ContentDisplay]
+DirectorySizeMode=ContentSize
+UseShortRelativeDates=false
+
+[ContextMenu]
+ShowViewMode=false
+
+[DetailsMode]
+UseSystemFont=false
+ViewFont=Adwaita Mono,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+
+[General]
+CloseSplitViewChoice=InactiveView
+DoubleClickViewAction=show_terminal_panel
+DynamicView=true
+GlobalViewProps=false
+LockPanels=false
+ShowFullPath=true
+ShowStatusBar=FullWidth
+Version=202
+ViewPropsTimestamp=2026,8,29,14,46,45.494
+
+[IconsMode]
+UseSystemFont=false
+ViewFont=Adwaita Mono,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=ffmpegthumbnailer,appimagethumbnail,audiothumbnail,glycin-heif,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,glycin-image-rs,jpegthumbnail,glycin-jxl,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,ffmpegthumbnailer-audio,glycin-svg,svgthumbnail,textthumbnail,gsf-office
+
+[UiSettings]
+ColorScheme=noctalia
